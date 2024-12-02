@@ -1,4 +1,4 @@
-```markdown
+
 # Minecraft Server Status Python
 
 This Python script allows you to check the status of a Minecraft server. It provides detailed information about the server, such as the number of online players, MOTD (Message of the Day), version, and latency.
